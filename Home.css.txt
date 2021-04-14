@@ -1,0 +1,296 @@
+ 
+
+    .logo {
+        position: absolute;
+        top: 20%;
+        color: red;
+        left: 50%;
+        font-size: 50px;
+        background-color: white;
+        height: 65px;
+        width: 65px;
+        border-radius: 50%;
+        text-align: center;
+    }
+    
+    .logo-header {
+        position: absolute;
+        top: 35%;
+        left: 32%;
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+
+    /*.Rectangle-1 {
+        position: absolute;
+       
+        width: 145px;
+        height: 60px;
+        margin-left:211px;
+        top: 40%;
+        left: 35%;;
+        background-color: #ffffff;
+      }
+     .Rectangle-2 {
+        width: 477px;
+        height: 60px;
+        margin: 0 0 0 21px;
+        padding: 21px 249px 18px 24px;
+        background-color: #ffffff;
+      }*/
+
+    .Please-type-a-location {
+        display: inline-block;
+        position: absolute;
+        top: 43%;
+        left:42%;
+        height: 40px;
+        width:180px ;
+     }
+
+     .Search-box {
+         display: inline-block;
+        position: absolute;
+        top: 11%;
+        left: 122%;
+        height: 40px;
+        width: 284px;
+        
+     }
+    .Quick-Searches {
+          width: 239px;
+          height: 43px;
+          margin: 48px 151px 7px 65px;
+          font-family: Poppins;
+          font-size: 30px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.53;
+          letter-spacing: normal;
+         text-align: left;
+         color: #192f60;
+     }
+     .Discover-restaurants-by-type-of-meal {
+        width: 331px;
+        height: 25px;
+        margin: 7px 59px 33px 65px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+       font-style: normal;
+       line-height: 1.5;
+       letter-spacing: normal;
+       text-align: left;
+       color: #8c96ab;
+     }
+     .qs-item {
+       display: inline-block;
+        width: 425px;
+        height: 180px;
+        box-shadow: 0 3px 6px 0 red;
+        background-color: #ffffff;
+        margin: 5px;
+    }
+
+    .qs-row {
+        margin-left: -223px;
+        
+    }
+     .Food-item {
+         width: 88px;
+       height: 25px;
+       margin: 10px 82px -11px 29px;
+       font-family: Poppins;
+       font-size: 18px;
+       font-weight: 600;
+       font-stretch: normal;
+       font-style: normal;
+       line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+     }
+    
+    .Content {
+        width: 137px;
+        height: 62px;
+        margin: 4px 0 44px 29px;
+       font-family: Poppins;
+       font-size: 16px;
+       font-weight: normal;
+       font-stretch: normal;
+       font-style: normal;
+       line-height: 1.5;
+       letter-spacing: normal;
+       text-align: left;
+      color: #8c96ab;
+}
+@media only screen and (min-width:0px) and  (max-width:600px)
+{
+    .logo {
+         position: absolute;
+         top: 20%;
+         color: red;
+         left: 50%;
+         font-size: 50px;
+         background-color: white;
+         height: 65px;
+         width: 65px;
+         border-radius: 50%;
+         text-align: center;
+     }
+ }
+ @media only screen and (min-width: 601px) and (max-width: 792px)
+ {
+     .logo {
+         position: absolute;
+         top: 20%;
+         color:red;
+         left: 50%;
+         font-size: 50px;
+         background-color: white;
+         height: 65px;
+         width: 65px;
+         border-radius: 50%;
+         text-align: center;
+     }
+ }
+ @media only screen and (min-width:793px) and (max-width:992px)
+ {
+    .logo {
+        position: absolute;
+        top: 20%;
+        color:red;
+        left: 50%;
+        font-size: 50px;
+        background-color: white;
+        height: 65px;
+        width: 65px;
+        border-radius: 50%;
+        text-align: center;
+    }
+}
+ @media  only screen and (min-width:0px) and (max-width:600px)
+ {
+    .logo-header {
+    position: absolute;
+    top: 30%;
+    left: -7%;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+}
+@media only screen and (min-width:601px) and (max-width:792px)
+{
+    .logo-header {
+        position: absolute;
+        top: 30%;
+        left: 15%;
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+}
+@media only screen and (min-width:0px) and  (max-width:600px)
+{
+    .Please-type-a-location {
+        
+        position: absolute;
+        top: 43%;
+        left:15%;
+        height: 40px;
+        width:180px ;
+     }
+    }
+@media only screen and (min-width:601px) and  (max-width:792px)
+{
+    .Please-type-a-location {
+        
+        position: absolute;
+        top: 43%;
+        left:35%;
+        height: 40px;
+        width:180px ;
+     }
+    }
+@media only screen and (min-width:793px) and  (max-width:992px)
+{
+    .Please-type-a-location {
+        
+        position: absolute;
+        top: 43%;
+        left:45%;
+        height: 40px;
+        width:180px ;
+     }
+    }
+@media only screen and (min-width:0px)  and (max-width:600px)
+{
+    .qs-row {
+        margin-left:35px;
+    }   
+    }
+@media only screen and (min-width:601px)  and (max-width:792px)
+{
+    .qs-row {
+        margin-left:35px;
+    }   
+    }
+@media only screen and (min-width:792px)  and (max-width:992px)
+{
+    .qs-row {
+        margin-left:35px;
+    }   
+    }
+    @media only screen and (min-width:0px) and (max-width:600px)
+    {
+        .qs-item {
+             width: 425px;
+             height: 180px;
+             box-shadow: 0 3px 6px 0 red;
+             background-color: #ffffff;
+             margin-left: 40px;
+         }
+        }
+    @media only screen and (min-width:601px) and (max-width:792px)
+    {
+        .qs-item {
+             width: 425px;
+             height: 180px;
+             box-shadow: 0 3px 6px 0 red;
+             background-color: #ffffff;
+             margin-left: 60px;
+         }
+        }
+    @media only screen and (min-width:793px) and (max-width:992px)
+    {
+        .qs-item {
+             width: 425px;
+             height: 180px;
+             box-shadow: 0 3px 6px 0 red;
+             background-color: #ffffff;
+             margin-left: 80px;
+         }
+        }

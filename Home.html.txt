@@ -1,0 +1,96 @@
+<html>
+<head>
+<link rel="stylesheet"href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="home.css">
+<title>Home Page</title>
+</head>
+<body>
+    <img src="D:/edureka/Home/homepageimg.png" height="400px" width="100%" />
+    <div class="logo">
+        <b>e!</b>
+    </div>
+    <div class="logo-header">Find the best restaurants, cafés, and bars</div>
+    <div class="Please-type-a-location">
+        <select >
+            <option>Please type a location</option>
+            <option>Delhi</option>
+            <option>Mumbai</option>
+            <option>Hyderabad</option>
+            <option>Bengalur</option>
+           </select>
+          <input class="Search-box" type="text"  placeholder="&#x1F50D;Search for restaurants" name="Search for restaurants" />
+           </div>
+    
+    <div class="Quick-Searches">Quick Searches</div>
+    <div class="Discover-restaurants-by-type-of-meal">Discover restaurants by type of meal</div>
+    <div class="container">
+
+    <div class="qs-row">
+
+        <div class="col-lg-4 col-md-6 col-sm-12 qs-item">
+        <div style="display: inline-block;">
+ <img style="height:160px; width:160px;" src="D:/edureka/Home/Breakfast.png">
+        </div>
+  <div style="display: inline-block;">
+  <b class="Food-item">Breakfast</b>
+  <p class="Content">Start your day with exclusive breakfast options</p>
+        </div>
+        </div>
+        
+
+      <div class="col-lg-4 col-md-6 col-sm-12 qs-item">
+      <div style="display: inline-block;">
+ <img style="height:160px; width:160px;" src="D:/edureka/Home/Lunch.png">
+        </div> 
+      <div style="display: inline-block;">
+      <b class="Food-item">Lunch</b>
+      <p class="Content">Start your day with exclusive breakfast options</p>
+        </div>
+        </div>
+    
+
+     <div class="col-lg-4 col-md-6 col-sm-12 qs-item">
+     <div style="display: inline-block;">
+ <img style="height:160px; width:160px;" src="D:/edureka/Home/Snacks.png">
+        </div>
+     <div style="display: inline-block;">
+     <b class="Food-item">Snacks</b>
+     <p class="Content">Start your day with exclusive breakfast options</p>
+        </div>
+        </div>
+        </div>
+    
+    <div class="qs-row">
+    <div class="col-lg-4 col-md-6 col-sm-12 qs-item">
+    <div style="display: inline-block;">
+ <img style="height:160px; width:160px;" src="D:/edureka/Home/Dinner.png">
+        </div>
+     <div style="display: inline-block;">
+     <b class="Food-item">Dinner</b>
+     <p class="Content">Start your day with exclusive breakfast options</p>
+        </div>
+        </div>
+        
+
+     <div class="col-lg-4 col-md-6 col-sm-12 qs-item">
+     <div style="display: inline-block;">
+ <img style="height:160px; width:160px;" src="D:/edureka/Home/Drinks.png">
+        </div>
+     <div style="display: inline-block;">
+     <b class="Food-item">Drinks</b>
+     <p class="Content">Start your day with exclusive breakfast options</p>
+        </div>
+        </div>
+     <div class="col-lg-4 col-md-6 col-sm-12 qs-item">
+     <div style="display: inline-block;">
+ <img style="height:160px; width:160px;" src="D:/edureka/Home/Nightlife.png">
+        </div>
+     <div style="display: inline-block;">
+     <b class="Food-item">Nightlife</b>
+     <p class="Content">Start your day with exclusive breakfast options</p>           </div>
+       </div>
+       </div>
+       </div>
+</body>
+
+</html>
